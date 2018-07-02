@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "118539190551",
+    "firebase_url": "https://restaurant-93b14.firebaseio.com",
+    "project_id": "restaurant-93b14",
+    "storage_bucket": "restaurant-93b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118539190551:android:ea268a59fa39ff54",
+        "android_client_info": {
+          "package_name": "com.rosius.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118539190551-e8a4bmmbkp9lqdg489se4d1u55sm2rh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosius.foody",
+            "certificate_hash": "4d6baf8b0a5869e118a54781a88684e3696ee733"
+          }
+        },
+        {
+          "client_id": "118539190551-j1pio0pu8kdi98od7l4jv4v1nr8muoj4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "118539190551-j1pio0pu8kdi98od7l4jv4v1nr8muoj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXudThMwT5VEk_Znq_xiBcYAvlAKVZWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118539190551-j1pio0pu8kdi98od7l4jv4v1nr8muoj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
