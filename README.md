@@ -9,7 +9,7 @@ The Server Side is written with PHP(Slim) and hooked to a Mysql Server
 The Folder foody_database contains the sql file for the database
 Restaurant_api database contains the php REST Api
 
-![alt text](https://raw.githubusercontent.com/trey-rosius/foody/master/assets/images/image1.jpeg)
+![alt text](https://raw.githubusercontent.com/trey-rosius/foody/master/assets/images/image2.jpeg)
 
 ![alt text](https://raw.githubusercontent.com/trey-rosius/foody/master/assets/images/image1.jpeg)
 
